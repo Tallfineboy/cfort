@@ -1,0 +1,81 @@
+
+h2{
+    color: green;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+h3{
+    color: red;
+    text-align: center;
+}
+
+.zeus{
+    text-align: center;
+}
+
+.optimus{
+    border: 1px solid black;
+    padding-left: 10px;
+    word-spacing: 50px;
+}
+
+.bee{
+    margin-left:150px;
+}
+
+.drake{
+    border: 1px solid black;
+    padding-left: 40px;
+    margin-top: 20px;
+    margin-left:30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+h6{
+    color: red;
+}
+
+.hawkeye{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right:30px ;
+    margin-bottom: 10px;
+    
+}
+
+.soul{
+    padding-left: 20px;
+}
+
+.note{
+    padding-left: 20px;
+}
+
+.ozil{
+    padding-left: 40px;
+}
+
+.closing{
+    padding-left: 40px;
+}
+
+img{
+    margin-left: 400px;
+}
+
+.stone{
+    padding-left: 10px;
+}
+
+.sancho{
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.bruno{
+    text-align: center;
+}
